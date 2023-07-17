@@ -25,11 +25,11 @@ imgname = 'image.jpg'
 
 ## Working
 
-Input Image
+<p align="right">Input Image</p><p align="left">Output Image</p>
 
 <img src="https://github.com/Divyanshu960/Picture-to-Sketch/assets/72182690/7d463196-943e-451f-9d48-183f04ba7bc9" width=50% height=50%><img src="https://github.com/Divyanshu960/Picture-to-Sketch/assets/72182690/980b07da-886a-42a5-a825-17ce03f4e987" width=50% height=50%>
 
-Result Image
+
 
 
 
