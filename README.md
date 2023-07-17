@@ -16,10 +16,10 @@ Make sure to replace the below code snippets as suitable .👇
 import cv2
 
 # add the location of the image
-img_location = 'C:/Users/Users/Admin/Images/' // this is an example
+img_location = 'C:/Users/Users/Admin/Images/'
 
 # add name of the image
-imgname = 'image.jpg' // example name
+imgname = 'image.jpg'
 
 ```
 
