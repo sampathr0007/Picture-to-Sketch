@@ -27,7 +27,7 @@ imgname = 'image.jpg'
 
 Input Image
 
-![Input](https://github.com/Divyanshu960/Picture-to-Sketch/assets/72182690/7d463196-943e-451f-9d48-183f04ba7bc9)
+<img src="https://github.com/Divyanshu960/Picture-to-Sketch/assets/72182690/7d463196-943e-451f-9d48-183f04ba7bc9" width=50% height=50%>
 
 Result Image
 
