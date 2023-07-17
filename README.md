@@ -31,7 +31,7 @@ Input Image
 
 Result Image
 
-![Result](https://github.com/Divyanshu960/Picture-to-Sketch/assets/72182690/980b07da-886a-42a5-a825-17ce03f4e987)
+<img src="https://github.com/Divyanshu960/Picture-to-Sketch/assets/72182690/980b07da-886a-42a5-a825-17ce03f4e987" width=50% height=50%>
 
 ## Contributing 😉
 
